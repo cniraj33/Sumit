@@ -1,7 +1,9 @@
+import Landing from "./Component/Landing";
+
 function App() {
   return (
     <div className="App">
-      Subscribe ZainKeepsCode
+      <Landing/>
     </div>
   );
 }
